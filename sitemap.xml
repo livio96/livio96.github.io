@@ -39,8 +39,26 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://mentalliquidity.com/index.html</loc>
-        <lastmod>2023-08-20</lastmod>
+        <loc>https://mentalliquidity.com/expectations.html</loc>
+        <lastmod>2023-09-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mentalliquidity.com/being-in-control.html</loc>
+        <lastmod>2023-09-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mentalliquidity.com/social-comparison.html</loc>
+        <lastmod>2023-09-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mentalliquidity.com/being-comfortable-with-discomfort.html</loc>
+        <lastmod>2023-09-08</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
