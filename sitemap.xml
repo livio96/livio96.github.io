@@ -3,12 +3,6 @@
 <!--  created with sitemap generator https://octopus.do  -->
 
     <url>
-        <loc>https://mentalliquidity.com</loc>
-        <lastmod>2023-08-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
         <loc>https://mentalliquidity.com/wait-you-win.html</loc>
         <lastmod>2023-08-20</lastmod>
         <changefreq>always</changefreq>
@@ -59,6 +53,18 @@
     <url>
         <loc>https://mentalliquidity.com/being-comfortable-with-discomfort.html</loc>
         <lastmod>2023-09-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mentalliquidity.com/cheap-thrills-deep-thrills.html</loc>
+        <lastmod>2023-09-14</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mentalliquidity.com/Once-I-then.html</loc>
+        <lastmod>2023-09-14</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
