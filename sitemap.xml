@@ -140,4 +140,16 @@
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
+     <url>
+        <loc>https://www.mentalliquidity.com/emotion-outweighs-rational-thought.html</loc>
+        <lastmod>2023-10-20</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.mentalliquidity.com/when-you-blame-opportunities.html</loc>
+        <lastmod>2023-10-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
