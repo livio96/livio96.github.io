@@ -152,4 +152,22 @@
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
+     <url>
+        <loc>https://www.mentalliquidity.com/less-than-1-percent.html</loc>
+        <lastmod>2023-25-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+     <url>
+        <loc>https://www.mentalliquidity.com/work-is-a-privilege.html</loc>
+        <lastmod>2023-27-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+     <url>
+        <loc>https://www.mentalliquidity.com/you-are-defeated-only-when-you-give-up.html</loc>
+        <lastmod>2023-29-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
