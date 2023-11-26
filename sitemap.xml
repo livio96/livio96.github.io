@@ -176,4 +176,34 @@
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
+    <url>
+        <loc>https://www.mentalliquidity.com/life-lessons-that-i-learned-from-my-cat.html</loc>
+        <lastmod>2023-11-06</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.mentalliquidity.com/the-real-downside-of-social-media.html</loc>
+        <lastmod>2023-11-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.mentalliquidity.com/you-may-be-busy-but-maybe-not-productive.html</loc>
+        <lastmod>2023-11-12</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+     <url>
+        <loc>https://www.mentalliquidity.com/Are-you-willing-to-copy-who-you-admire.html</loc>
+        <lastmod>2023-11-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+     <url>
+        <loc>https://www.mentalliquidity.com/skills-that-never-die.html</loc>
+        <lastmod>2023-11-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
